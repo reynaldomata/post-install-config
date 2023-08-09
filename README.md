@@ -19,13 +19,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## List of System Administration Configurations
 
-1. [Helpdesk Roles](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-roles)
-2. [Helpdesk Departments](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-departments)
-3. [Helpdesk Teams](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-teams)
-4. [Helpdesk Agents](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-agents)
-5. [Helpdesk SLA (Service Level Agreements)](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-sla)
-6. [Help Topics](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-help-topics)
-7. [Helpdesk Users](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-users)
+1. [Helpdesk Roles](https://github.com/reynaldomata/post-install-config#configure-helpdesk-roles)
+2. [Helpdesk Departments](https://github.com/reynaldomata/post-install-config#configure-helpdesk-departments)
+3. [Helpdesk Teams](https://github.com/reynaldomata/post-install-config#configure-helpdesk-teams)
+4. [Helpdesk Agents](https://github.com/reynaldomata/post-install-config#configure-helpdesk-agents)
+5. [Helpdesk SLA (Service Level Agreements)](https://github.com/reynaldomata/post-install-config#configure-helpdesk-sla)
+6. [Help Topics](https://github.com/reynaldomata/post-install-config#configure-help-topics)
+7. [Helpdesk Users](https://github.com/reynaldomata/post-install-config#configure-helpdesk-users)
 
 ## Configuration Steps
 
