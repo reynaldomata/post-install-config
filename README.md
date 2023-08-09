@@ -139,4 +139,4 @@ https://github.com/dtaylor15/osTicket-SystemAdmin-Config/assets/101889571/a7c718
 
 
 ### osTicket - System Administration Configuration Complete!👏🏾
-Continue to [helpdesk ticket lifecycle examples.](https://github.com/reynaldomata/osTicket-LifeCycle)
+Continue to [helpdesk ticket lifecycle examples.](https://github.com/reynaldomata/ticket-lifecycle)
